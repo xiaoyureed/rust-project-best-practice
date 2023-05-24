@@ -1,3 +1,5 @@
+> 由于会不断增添内容, 放在单独仓库维护有点麻烦, 最新版搬到了 👉🏻[这里](https://xiaoyureed.github.io/docs/rust-note/)
+
 <!-- TOC -->
 
 - [简单介绍](#简单介绍)
